@@ -1,7 +1,7 @@
 body
 {
-  color:white;
-  background: #880741;
+  color: white;
+  background: #c0d3ff;
 }
 span
 {
@@ -13,15 +13,15 @@ span
   width: 350px;
   height: 300px; 
 }
-#gesture_name
+#emotion_name_1 ,#emotion_name_2
 {
   color: black;
 }
-.gesture_name
+.emotion_name
 {
   font-size: 40px;
 }
-.gesture
+.emoji
 {
   font-size:48px;
 }
